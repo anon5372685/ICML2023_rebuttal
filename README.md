@@ -1,0 +1,7 @@
+[nn_scans.pdf](https://github.com/anon5372685/ICML2023_rebuttal/files/14795428/nn_scans.pdf)
+[linear models niTrue.pdf](https://github.com/anon5372685/ICML2023_rebuttal/files/14795427/linear.models.niTrue.pdf)
+[eta_scans.pdf](https://github.com/anon5372685/ICML2023_rebuttal/files/14795426/eta_scans.pdf)
+[CI_tests.pdf](https://github.com/anon5372685/ICML2023_rebuttal/files/14795425/CI_tests.pdf)
+[C_scan.pdf](https://github.com/anon5372685/ICML2023_rebuttal/files/14795424/C_scan.pdf)
+[C_scan.pdf](https://github.com/anon5372685/ICML2023_rebuttal/files/14795433/C_scan.pdf)
+![C_scan](https://github.com/anon5372685/ICML2023_rebuttal/assets/165326917/62e98094-6434-4e4a-888d-049511320811)
